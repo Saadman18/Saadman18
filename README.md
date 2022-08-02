@@ -29,4 +29,4 @@ Learn. ~~Unlearn.~~ Learn again. <img align="right" src="https://github.com/Saad
 |  | STATS |
 |---|---|
 |GITHUB|<a href="https://twitter.com/saadman_SKB"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadman18&theme=dracula&layout=compact&hide_border=true%bg_color=#230830&langs_count=10" width=50% height=50% /></a>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saadman18&theme=dracula&hide_border=true)](https://git.io/streak-stats)|
-|LEETCODE [<a href="https://leetcode.com/Saadman18/">profile</a>] | ![Leetcode Stats](https://leetcard.jacoblin.cool/Saadman18?theme=nord)
+|LEETCODE [<a href="https://leetcode.com/Saadman18/">profile</a>] | ![Leetcode Stats](https://leetcard.jacoblin.cool/Saadman18?theme=nord?ext=activity)
