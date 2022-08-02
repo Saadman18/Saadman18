@@ -7,7 +7,7 @@ Learn. ~~Unlearn.~~ Learn again. <img align="right" src="https://github.com/Saad
 |---|
 <div>
 
-- [x] :soon:
+- [x] Evolving :butterfly:
 - [x] Here you can find my coding journey, learning resources, inspirations and all my personal projects.
 - [x] Away from the keyboard, I obsessively talk about football a lot. 
 - [x] Drop a :star: if you find something useful. 
