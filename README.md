@@ -22,7 +22,7 @@ Learn. ~~Unlearn.~~ Learn again. <img align="right" src="https://github.com/Saad
           
 
 
-| How can I help?|  <a href="https://www.linkedin.com/in/saadman-sakib-539652237/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>| <a href="https://twitter.com/saadman_SKB"/><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a> |<a href="https://www.instagram.com/saadmanwanonlee/?hl=en"/><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> </a> |
+| How can I help?|  <a href="https://www.linkedin.com/in/saadman-sakib-539652237/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>| <a href="https://twitter.com/saadman_SKB"/><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a> |<a href="https://www.instagram.com/saadmanwanonlee/?hl=en"/><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> </a>|
 |---|---|---| ---| 
  
 
