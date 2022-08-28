@@ -2,7 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=FearStreet18&color=red&style=for-the-badge)
 
-Learn. ~~Unlearn.~~ Learn again. <img align="right" src="https://github.com/Saadman18/Saadman18/blob/main/fire_programming.gif" alt="TF?" width=40% height=100% />
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
+Learn. ~~Unlearn.~~ Learn again.
 | **Dhaka, বাংলাদেশ** |
 |---|
 <div>
