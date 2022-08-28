@@ -1,18 +1,18 @@
-<h2>Hi, I am Saadman :male_sign: </h2> 
 
 ![](https://komarev.com/ghpvc/?username=FearStreet18&color=red&style=for-the-badge)
 
 <p align="center">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
+                                                     Hi, I am Saadman :D
 Learn. ~~Unlearn.~~ Learn again.
 | **Dhaka, বাংলাদেশ** |
 |---|
 <div>
 
 - [x] Evolving :butterfly:
-- [x] Here you can find my coding journey, learning resources, inspirations and all my personal projects.
+- [x] Here you can find my coding journey, inspirations and all my projects.
 - [x] Away from the keyboard, I obsessively talk about football a lot. 
 - [x] Drop a :star: if you find something useful. 
 
