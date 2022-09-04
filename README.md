@@ -9,7 +9,6 @@ Learn. ~~Unlearn.~~ Learn again.
 | **Dhaka, বাংলাদেশ** |
 |---|
 <div>
-
 - [x] Evolving :butterfly:
 - [x] Here you can find my coding journey, inspirations and all my projects.
 - [x] Away from the keyboard, I obsessively talk about football a lot. 
